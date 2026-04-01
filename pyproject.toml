@@ -6,7 +6,7 @@ authors = ["Akshay Jain <aj2812@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-aiohttp = "^3.8.1"
+aiohttp = "^3.13.4"
 requests = "^2.32.4"
 tenacity = "^8.0.1"
 ipaddress = "^1.0.23"
